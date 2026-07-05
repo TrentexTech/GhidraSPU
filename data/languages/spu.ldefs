@@ -4,7 +4,7 @@
               endian="big"
               size="128"
               variant="default"
-              version="1.0"
+              version="1.2"
               slafile="spu.sla"
               processorspec="spu.pspec"
               id="SPU:BE:128:default">
